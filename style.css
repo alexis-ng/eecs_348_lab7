@@ -1,0 +1,20 @@
+.profile{
+display: flex;
+flex-direction: column;
+color: #5d3f70; 
+}
+
+table, tr, td {
+border: 1px solid;
+padding: 5px;
+}
+
+.tb{
+border: 1px solid;
+padding: 5px;
+}
+
+#text{
+border-width: 5px;
+border-style: solid;
+}
